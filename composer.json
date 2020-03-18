@@ -1,5 +1,5 @@
 {
-    "name": "paulm17/laravel-ulid",
+    "name": "paulm17/laravel-ulid-2",
     "description": "Laravel package for ULID (Universally Unique Lexicographically Sortable Identifier)",
     "keywords": ["ulid", "uuid", "identifier", "guid"],
     "homepage": "https://github.com/paulm17/laravel-ulid",
