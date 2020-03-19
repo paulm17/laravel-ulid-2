@@ -1,6 +1,6 @@
 <?php
 
-namespace Rorecek\Ulid;
+namespace Paulm17\Ulid;
 
 use Illuminate\Support\ServiceProvider;
 

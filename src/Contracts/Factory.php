@@ -1,5 +1,5 @@
 <?php
-namespace Rorecek\Ulid\Contracts;
+namespace Paulm17\Ulid\Contracts;
 
 interface Factory
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Rorecek\Ulid;
+namespace Paulm17\Ulid;
 
 class Ulid implements Contracts\Factory
 {
