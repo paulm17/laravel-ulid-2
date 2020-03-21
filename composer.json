@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "paulm17\\Ulid\\": "src"
+            "Paulm17\\Ulid\\": "src"
         }
     },
     "config": {
@@ -27,10 +27,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "paulm17\\Ulid\\UlidServiceProvider"
+                "Paulm17\\Ulid\\UlidServiceProvider"
             ],
             "aliases": {
-                "Ulid": "paulm17\\Ulid\\Facades\\Ulid"
+                "Ulid": "Paulm17\\Ulid\\Facades\\Ulid"
             }
         }
     }
